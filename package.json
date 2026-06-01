@@ -1,0 +1,12 @@
+{
+  "name": "villa-concierge",
+  "version": "1.0.0",
+  "description": "AI Concierge for Nature Villa, Olaulim Goa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
